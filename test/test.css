@@ -1,0 +1,13 @@
+body{
+    background-color:grey;
+}
+
+.div1 p::before{
+    content:'jason leong chor yew----';
+    color:white;
+}
+
+.div1 p:after{
+    content:'----jason leong chor';
+    color:white;
+}
